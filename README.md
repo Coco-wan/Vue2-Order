@@ -13,10 +13,10 @@
 vue2 + vue-router + vuex + rem + webpack
 
 ## 截图
-![首页](https://wx3.sinaimg.cn/mw690/c0458046ly1fq5a5fipkij20hs0vkjue.jpg =320x568)
-![下单页](https://wx4.sinaimg.cn/mw690/c0458046ly1fq5a5fhlacj20hs0vkjtm.jpg =320x568)
-![详情页](https://wx3.sinaimg.cn/mw690/c0458046ly1fq5a5feg37j20hs0vk0u7.jpg =320x568)
-![订单页](https://wx2.sinaimg.cn/mw690/c0458046ly1fq5a5fgp9pj20hs0vkmyw.jpg =320x568)
+![首页](https://wx1.sinaimg.cn/mw690/c0458046ly1fq6d7xwwtgj208w0fst9c.jpg)
+![下单页](https://wx2.sinaimg.cn/mw690/c0458046ly1fq6d7y0odbj208w0fsaas.jpg)
+![详情页](https://wx1.sinaimg.cn/mw690/c0458046ly1fq6d7y1s9yj208w0fsjrr.jpg)
+![订单页](https://wx4.sinaimg.cn/mw690/c0458046ly1fq6d7y0ro9j208w0fs3z8.jpg)
 
 ## 安装运行（Build Setup）
 
