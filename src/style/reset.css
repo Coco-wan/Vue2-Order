@@ -1,0 +1,14 @@
+/*reset*/
+*{-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;outline:0;-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none}
+body,html{height:100%;}
+html{-webkit-text-size-adjust:100%}
+body{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:1.4;color:#333; -webkit-overflow-scrolling:touch}
+:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}
+a img{border:0}
+a{text-decoration:none}
+ul{list-style:none}
+input,textarea{-webkit-user-select:text;-webkit-appearance:none;}
+button,input,optgroup,select,textarea{font:inherit;color:inherit}
+button:focus,input:focus{outline:0}
+table{border-spacing:0;border-collapse:collapse}
+td,th{padding:0}
